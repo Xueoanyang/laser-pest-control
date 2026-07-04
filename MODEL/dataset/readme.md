@@ -1,0 +1,2 @@
+数据集来自kaggle上的公开数据集Mosquitoes_CompSci760.
+该文件夹展示了原始图像与处理后的图像
